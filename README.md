@@ -14,4 +14,4 @@ This repo contains public components of LysTech OS. A more fully developed repos
 - 🌐 Official website and download mirrors
 - 🧭 LysTech OS Only Software
 
----
+## Downloads :
